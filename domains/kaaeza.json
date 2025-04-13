@@ -1,0 +1,11 @@
+{
+    "description": "I want to create a site to present myself and show my projects",
+    "repo": "https://github.com/kaaeza/kaaeza.github.io",
+    "owner": {
+        "username": "kaaeza",
+        "email": "lamiasecondamail1@gmail.com"
+    },
+    "record": {
+        "CNAME": "kaaeza.github.io"
+    }
+}
